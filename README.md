@@ -1,5 +1,4 @@
 # symbol-picture-maker
-(as a gift for cpp)
 
 Though I'm not the first to make symbol pictures, I prefer to do it my way!
 Implementing the opencv, the program can convert pictures to a new matrix of brailles which looks almost the same to the original ones. 
